@@ -1,0 +1,5 @@
+    The attack on the Last Pass service was a pretty substantial breach in security was an interesting data breach to me because it mixed a couple of kinds
+of breaches into one multiphase attack. Last Pass is a password service that allows you to login and access all of your passwords in the same place, adigital keychain of sorts. This is most certainly the kind of service with which you wouldn't want any security issues, yet some malicious actors were able to get acess to user data after multiple months of effort. Luckily thanks to the power of basic encryption, the user data remains safe. It is an excellent showcase of the multiple routes hackers jhave to acquire information, but also how powerful basic security measures are.
+
+    This attack started with an attack on a senior engineer's workstation. A senior Dev
+
